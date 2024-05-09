@@ -1,4 +1,4 @@
-## Welcome to GitHub Games - Omar Vásquez
+## Welcome to GitHub Games - Omar Vásquez.
 
 ## Daniela rique Cambio 1 qa
 
