@@ -1,5 +1,5 @@
 ## Welcome to GitHub Games - Omar Vásquez
-## Daniela rique Cambio 3 qa
+## Daniela rique Cambio 1 qa
 ##Otro cambio
 ## Daniela rique Porras
 
