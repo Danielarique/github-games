@@ -1,4 +1,6 @@
 ## Welcome to GitHub Games - Omar Vásquez
+## Daniela rique.
+##Otro cambio
 ## Daniela rique Porras
 
 A project based learning activity for people who are getting started with Git and GitHub.
