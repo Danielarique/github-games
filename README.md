@@ -1,7 +1,10 @@
 ## Welcome to GitHub Games - Omar Vásquez
+
 ## Daniela rique Cambio 1 qa
+
 ##Otro cambio
 ## Daniela rique Porras
+##dev
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
